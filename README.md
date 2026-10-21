@@ -151,3 +151,7 @@ worker. Read the advisories before relying on any of them:
 `tests/run-matrix.sh` runs the script in Debian 12, Ubuntu 22.04, AlmaLinux 9, Alpine, official
 `php` images (with stale workers and a planted user binary), FrankenPHP, and against containers seen
 from the host. It needs Docker.
+
+## License
+
+[MIT](LICENSE)
